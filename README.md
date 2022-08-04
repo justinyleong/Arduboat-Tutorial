@@ -30,7 +30,7 @@ QGroundControl: [https://docs.qgroundcontrol.com/master/en/getting_started/downl
 
 This will allow us to easily update the firmware on the Pixhawk and other hardware that we will be using later.
 
-Open QGroundControl -> Select Tool -> Vehicle Setup -> Summary -> Firmware (Unplug then plug in pixhawk) -> Settings
+*Open QGroundControl -> Select Tool -> Vehicle Setup -> Summary -> Firmware (Unplug then plug in pixhawk) -> Settings*
 
 
 <img src="https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/images/image3.png" width="30%" height="30%" />
