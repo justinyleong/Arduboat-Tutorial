@@ -1,5 +1,7 @@
 # Arduboat Tutorial
 
+This was created for Hacking 4 Oceans @ UCSD - 2022
+
 Created by Justin Leong
 
 After two weeks and four days of solders, shorts, and software struggles, we were given a different flight controller for our boat. This is a compilation of a single day of work the day before the final field test. Luckily the boat worked well until we tried to tow a buoy behind it. Below is a step-by-step guide to building your own autonomous boat. Hope this helps!
