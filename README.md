@@ -1,6 +1,6 @@
 # Arduboat Tutorial
 
-This was created for Hacking 4 Oceans @ UCSD - 2022
+## Hacking 4 Oceans @ UCSD - 2022
 
 Created by Justin Leong
 
