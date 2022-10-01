@@ -8,6 +8,11 @@ Created by Justin Leong
 
 Our team was given a task of creating an automated boat to tow a buoy for collecting oceanographic data. After two weeks and four days of solders, shorts, and software struggles, we were able to make it work. This is a compilation of our work the day before the final field test. Luckily the boat worked well until we tried to tow a buoy behind it. Below is a step-by-step guide to building your own autonomous boat. Hope this helps!
 
+Here is the link to the ArduPilot Forum page: [LINK](https://discuss.ardupilot.org/t/arduboat-tutorial-ucsd-hacking-4-oceans-summer-2022/89262)
+
+Please post pictures if you completed this build!
+
+
 
 
 
